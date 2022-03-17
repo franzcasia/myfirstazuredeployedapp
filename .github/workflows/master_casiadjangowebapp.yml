@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CasiaDjangoWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5651C0171102499E92168155AC2301ED }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_343B95B43B5544AEBE8D3862308BFE4A }}
